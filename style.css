@@ -1,0 +1,76 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #no_obj, #startmodal
+{
+font-size: 19px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(110, 255, 204);
+    margin-top: 35px;
+}
+
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #114357 0%, #F29492  51%, #114357  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+  .body{
+    font-family: cursive;
+
+    background-image: linear-gradient(to right, #d0f8fe, #cbeeff, #cee2fc, #d5d5f3, #dec8e4, #edc4da, #f7c1cb, #fbc1b9, #ffcdab, #f5dca4, #deeeac, #bcffc5);
+  }
+
+           
+  .btn-grad2 {
+    background-image: linear-gradient(to right, #ff6e7f 0%, #bfe9ff  51%, #ff6e7f  100%);
+    width: 50%;
+    font-size: 30px;
+    margin: 60px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad2:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
